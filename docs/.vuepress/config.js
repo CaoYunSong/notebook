@@ -14,6 +14,7 @@ export default defineUserConfig({
     ],
   }),
   
+  base: '/notebook/',
   lang: 'zh-CN',
   title: '成长日志',
   description: '这是我的第一个 VuePress 站点',
